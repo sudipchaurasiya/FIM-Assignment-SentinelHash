@@ -1,0 +1,4 @@
+timestamp,event,path,old_sha256,new_sha256
+2026-10-26T09:59:23-04:00,MODIFIED,/home/kali/FIM-Lab/critical.txt,30488ba9d1cf1884837d03a9b5e9e7108b49c8f28d0ddcc31df764a1149b631e,32e701fdf94fc9f6b62980e0eaca7834244ea5b36bd154a43764ec8c6f69645a
+2026-10-26T09:59:23-04:00,DELETED,/home/kali/FIM-Lab/readme.txt,4ea2a72ed972663f8e56c9680a9e7e5dde08b2a4810e50f5737b88f5a2fc5cae,
+2026-10-26T09:59:23-04:00,ADDED,/home/kali/FIM-Lab/new.txt,,f02aac2320db5ad1a4253e66d12f6b38eea0adfa1b5130853c935e4c83c5d0e8
